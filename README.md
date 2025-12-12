@@ -1,4 +1,4 @@
-# Aplicación de Consola de Películas en TypeScript
+# Practica de Enums en TypeScript - Peliculas en Consola
 
 ## Descripción
 
